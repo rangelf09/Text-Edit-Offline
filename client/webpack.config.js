@@ -29,8 +29,8 @@ new InjectManifest({
 }),
 
 new WebpackPwaManifest({
-  name: 'Workbox',
-  short_name: 'Workbox',
+  name: 'Just another Text Editor',
+  short_name: 'JATE',
   description: 'Workbox is a service worker and manifest file generator.',
   background_color: '#ffffff',
   theme_color: '#663399',
